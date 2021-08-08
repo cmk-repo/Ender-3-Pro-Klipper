@@ -2,15 +2,15 @@
 Ender 3 Pro SKR 1.4 Turbo With BLTouch
 # Please use this as reference , Not to be used directly and i am not responsible for your 3d printer catching fire  :P
 ######################################################################
-# Author : Chandan M 
-# Printer configuration file of Klipper
-# email : tochandan@icloud.com
-# Ender 3 pro
-#       + BLTOUCH 
-#       + Octoprint
-#       + Ditect Drive 3d printed 
-#       + BTT SKR 1.4 Turbo TMC 2209
-#       + Stock Ender 3 pro LCD
+## Author : Chandan M 
+## Printer configuration file of Klipper
+## email : tochandan@icloud.com
+ Ender 3 pro
+      + BLTOUCH 
+     + Octoprint
+       + Ditect Drive 3d printed 
+       + BTT SKR 1.4 Turbo TMC 2209
+       + Stock Ender 3 pro LCD
 ###################################################################### 
 # Version 1.    ; Octopi - Installed Klipper plugin and setup connection 
 # Version 1.1   ; Push to Raspberry test VS CODE 
