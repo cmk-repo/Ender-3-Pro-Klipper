@@ -37,5 +37,5 @@ Version 2.1.2 : update Github , and Raspberry with comments
                 ## G29 T
                 ## BED_MESH_OUTPUT
 
-# type SAVE_CONFIG in terminal to save the measured setting ( scroll down to see my unique values )
+# type SAVE_CONFIG in terminal to save the measured setting ( see printer.cfg )
 ######################################################################
