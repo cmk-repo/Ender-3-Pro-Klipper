@@ -69,12 +69,12 @@ manualy type SAVE_CONFIG in terminal to save the measured setting ( see printer.
 
 ### Tests
 -----------------------------------------------------------------------------------------
-Version 1.    : Octopi - Installed Klipper plugin and setup connection 
-Version 1.1   : Push to Raspberry test VS CODE 
-Version 1.1.3 : Reformat to basic settings
-Version 2     : Adjust bed size to accomodate 3d printed direct drive unit in x
-Version 2.1   : set and perform Assisted Bed leveling in Octo print using Klipper plugin
-Version 2.1.2 : update Github , and Raspberry with comments: BL-Touch Working
+ Version 1.    : Octopi - Installed Klipper plugin and setup connection 
+ Version 1.1   : Push to Raspberry test VS CODE 
+ Version 1.1.3 : Reformat to basic settings
+ Version 2     : Adjust bed size to accomodate 3d printed direct drive unit in x
+ Version 2.1   : set and perform Assisted Bed leveling in Octo print using Klipper plugin
+ Version 2.1.2 : update Github , and Raspberry with comments: BL-Touch Working
     
     Test Print confimation TBD
 
